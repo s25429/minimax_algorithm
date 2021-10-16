@@ -21,7 +21,7 @@
 - Python 3.7+
 
 ## Setup
-Simply copy the repository and run it with at least Python 3.7. It uses dataclasses, which after version 3.7 were added as a built-in library to python. 
+Simply copy the repository and run `python main.py` with at least Python 3.7. It uses dataclasses, which after version 3.7 were added as a built-in library to python. 
 Nothing else is needed.
 
 ## Usage
