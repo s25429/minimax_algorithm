@@ -39,4 +39,5 @@ Project is complete, but might receive update if I will feel like improving on i
 
 ## Contact
 Created by s25429 AKA [ThatHoracy](https://github.com/ThatHoracy), but currently posted on an account using school email address (this one!)
-- Email: s25429@pjwstk.edu.pl
+- Email: cezary.cislak@gmail.com
+- LinkedIn: [profile page](https://www.linkedin.com/in/cezary-ci%C5%9Blak-913559237/)
