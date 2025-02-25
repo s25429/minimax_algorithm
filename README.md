@@ -8,7 +8,6 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Contact](#contact)
 
 ## General Information
 - It is a simple made-by-me minimax algorithm fitted into a game of tic-tac-toe.
@@ -36,8 +35,3 @@ Project is complete, but might receive update if I will feel like improving on i
 - Alpha-beta prunning
 - Optimizing the code itself more
 - Some GUI? Would require an external library.
-
-## Contact
-Created by s25429 AKA [ThatHoracy](https://github.com/ThatHoracy), but currently posted on an account using school email address (this one!)
-- Email: cezary.cislak@gmail.com
-- LinkedIn: [profile page](https://www.linkedin.com/in/cezary-ci%C5%9Blak-913559237/)
